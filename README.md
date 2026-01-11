@@ -20,14 +20,14 @@ Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝�
 
 ---
 
-## 🧩 About(Learning)
+## 🧩 About (Learning)
 - **Backend**: Java / Spring Boot
 - **DB**: MySQL / H2
 - **Frontend**: JavaScript / HTML / React(Interest)
-- **Experience**: MSA, JPA, Spring Security, Gateway/Eureka
-- **AI**: RAG / LangChain / Streamlit
-- **Experience**: LangServe + Ngrok + Streamlit 기반 RAG 챗봇 구현  
-  - 로컬 PC 실행 → 외부 연결(Ngrok) → Streamlit UI 구성 → GitHub 연동 배포까지 경험
+- **Experience**
+  - **MSA/Backend**: JPA 기반 도메인 설계, Spring Security 인증·인가, Gateway/Eureka 연동 경험
+  - **RAG**: LangServe API + Ngrok 터널링 + Streamlit UI로 로컬 챗봇 구현, GitHub 연동 배포까지 경험
+
 
 
 ---
