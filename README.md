@@ -2,20 +2,20 @@
 Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝트를 만들고 있습니다.
 
 <p>
-  <img src="https://img.shields.io/badge/Java-17+-000000?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-000000?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%2FHibernate-000000?logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 </p>
 
 ---
