@@ -2,7 +2,7 @@
 Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝트를 만들고 있습니다.
 
 <p>
-  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17+-000000?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
