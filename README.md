@@ -25,7 +25,8 @@
 - **Frontend**: JavaScript / HTML / React(Interest)
 - **Experience**
   - **MSA/Backend**: JPA 기반 도메인 설계, Spring Security 인증·인가, Gateway/Eureka 연동 경험
-  - **RAG**: LangServe로 RAG API를 구성하고 Ngrok로 외부 접근을 연결한 뒤, Streamlit UI로 챗봇을 구현해 GitHub 연동 배포까지 진행했습니다.
+  - **RAG**: LangServe로 RAG API를 구성하고 Ngrok로 외부 접근을 연결한 뒤, Streamlit UI로 챗봇을 구현했고<br>
+    GitHub 연동 배포까지 진행했습니다.
 
 
 
