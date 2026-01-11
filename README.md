@@ -1,5 +1,4 @@
 ## 👋 kdh2212
-Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝트를 만들고 있습니다.
 
 <p>
   <img src="https://img.shields.io/badge/Java-17+-000000?logo=openjdk&logoColor=white" />
@@ -67,12 +66,11 @@ Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝�
     </td>
     <td width="50%" valign="top">
       <h3>📝 Notes</h3>
-      <p>트러블슈팅 / 기록</p>
-      <ul>
-        <li>JWT 도입 과정 정리</li>
-        <li>MSA에서 Gateway 인증 처리 정리</li>
-        <li>RAG 파이프라인 구성/이슈 해결</li>
-      </ul>
+      <p>공부 & 개발 기록 블로그</p>
+        <ul>
+          <li>Java / Spring 학습 정리</li>
+          <li>MSA 구조 및 설계 기록</li>
+        </ul>
       <p><a href="https://blog.naver.com/d_horizon">Blog 바로가기 →</a></p>
     </td>
   </tr>
