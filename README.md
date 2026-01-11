@@ -24,7 +24,7 @@ Java / Spring Boot 기반으로 **MSA · 인증/인가(JWT) · RAG** 프로젝�
 - **Backend**: Java / Spring Boot
 - **DB**: MySQL / H2
 - **Experience**: MSA, JPA, Spring Security, Gateway/Eureka
-- **Frontend **: JavaScript / HTML / React(Interest)
+- ***Frontend**: JavaScript / HTML / React(Interest)
 - **AI**: RAG / LangChain / Streamlit
 
 ---
