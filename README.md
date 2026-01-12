@@ -40,7 +40,7 @@
       <p>Gateway/Eureka 기반 마이크로서비스 카페 프로젝트</p>
       <ul>
         <li>서비스 분리/연동, API 설계</li>
-        <li>Gateway 라우팅 & 디스커버리 기반 구조</li>
+        <li>Gateway 라우팅 & 디스커버리 기반 <br>구조</li>
       </ul>
       <p><a href="https://github.com/CafeMSA-DU/CafeMSA">Repo 바로가기 →</a></p>
     </td>
@@ -60,7 +60,6 @@
       <p>PDF 기반 검색/질의응답 데모 (LangChain / Streamlit)</p>
       <ul>
         <li>문서 로딩 → 임베딩 → 검색 → 응답</li>
-        <li>에러/환경 이슈 해결 기록 확장 중</li>
       </ul>
       <p><a href="https://github.com/kdh2212/RAG_test260110">Repo 바로가기 →</a></p>
     </td>
